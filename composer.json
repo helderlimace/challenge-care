@@ -1,0 +1,15 @@
+{
+    "name": "helder/challenge-care",
+    "autoload": {
+        "psr-4": {
+            "Helder\\ChallengeCare\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Helder Lima",
+            "email": "helder.fl@hotmail.com"
+        }
+    ],
+    "require": {}
+}
